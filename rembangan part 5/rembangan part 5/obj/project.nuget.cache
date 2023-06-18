@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hqWgpIAFx/CtZF1Eol04A5YMD3KxYPcL5V3i550lMHHliv9Fe7Q91tBcDBRzml7bGXqe3X3lCSftg1QdYJZxOw==",
+  "success": true,
+  "projectFilePath": "D:\\Verry Wardana PBO\\rembangan part 5\\rembangan part 5\\rembangan part 5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\verry\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\verry\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\verry\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
